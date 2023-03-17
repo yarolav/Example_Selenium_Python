@@ -1,4 +1,7 @@
 # Example_Selenium_Python
 
+Example of how to use selenium for a web application.
 
-Example how to use selenium for web application 
+This repo will contain practice tasks in selenium and python.
+    - https://www.selenium.dev/
+    - https://www.python.org/
